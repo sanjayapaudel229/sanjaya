@@ -1,0 +1,35 @@
+	body{
+		background-color: lightgrey;
+		background-image: "paint1.png" width="50%" align="right";
+;
+	}
+	h1{
+			padding: 30px;
+			background-color: green;
+			color: white;
+			text-align: center;
+			margin: 0px;
+		}
+		nav{
+			overflow: hidden;
+			background-color:#333;
+			padding: 15px;
+			}
+		nav a{
+			float: left;
+			
+			margin-right: 50px;
+
+			color: white;
+			text-decoration: none;
+
+
+
+		}
+		nav a:hover{
+			background-color:black;
+			padding: 14px,16px;
+			color: white;
+			
+
+		}	}
